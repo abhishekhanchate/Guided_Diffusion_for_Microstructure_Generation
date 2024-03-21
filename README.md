@@ -1,0 +1,2 @@
+# Guided_Diffusion_for_Microstructure_Generation
+Denoising Diffusion Probabilistic Models and Classifier-Free Diffusion Guidance for Generative Modeling of Microstructures
